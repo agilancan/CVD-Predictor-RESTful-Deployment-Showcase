@@ -99,8 +99,8 @@ Content-Type: application/json
 
 ---
 
-📊 Use Cases
+## 📊 Use Cases
 
--Educational demo for ML deployment
--Backend API for health-tech tools
--Prototype for integrating cardiovascular risk screening in digital health apps
+- Educational demo for ML deployment
+- Backend API for health-tech tools
+- Prototype for integrating cardiovascular risk screening in digital health apps
